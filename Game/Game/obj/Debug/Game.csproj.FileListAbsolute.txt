@@ -12,3 +12,18 @@ C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Ga
 C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.g.resources
 C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\CatchGame.Properties.Resources.resources
 C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\02_Pràctiques\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\bin\Debug\CatchGame.exe.config
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\bin\Debug\CatchGame.exe
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\bin\Debug\CatchGame.pdb
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\MainWindow.g.cs
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\App.g.cs
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame_MarkupCompile.cache
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame_MarkupCompile.lref
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\MainWindow.baml
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame.g.resources
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame.Properties.Resources.resources
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame.exe
+C:\Users\polpu\Desktop\Turro de nadal\Game\Game\Game\obj\Debug\CatchGame.pdb
