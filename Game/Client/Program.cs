@@ -11,7 +11,6 @@ namespace Client
         private static IPAddress serverIp;
         private static int clientPort;
         private static int playerId;
-        private static Position position;
         
         static void Main(string[] args)
         {
@@ -56,16 +55,6 @@ namespace Client
                 Console.WriteLine(receivedFrase);
             } 
         }
-
-        static void responseToServer(object clientNs)
-        {
-            NetworkStream current = (NetworkStream)clientNs;
-
-            position = new Position(2 * playerId + 10, 50);
-            
-            byte[] fraseToBytes = Position.Serialize(position);
-            current.Write(fraseToBytes, 0, fraseToBytes.Length);
-
-        }
     }
 }
+
